@@ -34,6 +34,12 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                - name: Github
+                  url: "https://www.github.com/debsahu"
+                  weight: 10
+                - name: YouTube
+                  url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
+                  weight: 10
 outputs:
     home:
         - HTML
@@ -54,7 +60,7 @@ params:
           enabled: true
           title: "<Title>"
           subtitle: > 
-            ### 🧪🧲NMR/Biophysics PhD 🥼Research 👨‍🔬Scientist 
+            ### 🧪🧲NMR/Biophysics Ph. D. 🥼Research 👨‍🔬Scientist 
 
             ### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
           imageUrl: "deb1.jpg"
@@ -62,12 +68,16 @@ params:
           imageWidth: 300
           imageHeight: 300
           buttons:
+              - name: Scietific Research
+                url: "https://sites.lsa.umich.edu/debsahu/"
               - name: Search
                 url: "/search"
-              - name: Archive
+              - name: Posts
                 url: "/archive"
               - name: Github
                 url: "https://www.github.com/debsahu"
+              - name: YouTube
+                url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
 
     socialIcons:
         - name: "github"
