@@ -9,4 +9,4 @@ fi
 git commit -m "$msg"
 
 # Push git
-git push origin master
+git push origin main
