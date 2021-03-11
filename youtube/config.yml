@@ -22,7 +22,7 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
+                - name: Posts
                   url: archives
                   weight: 5
                 - name: Search
@@ -36,10 +36,10 @@ languages:
                   weight: 10
                 - name: Github
                   url: "https://www.github.com/debsahu"
-                  weight: 10
+                  weight: 20
                 - name: YouTube
                   url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
-                  weight: 10
+                  weight: 20
 outputs:
     home:
         - HTML
@@ -100,7 +100,12 @@ params:
     # analytics:
     #     google:
     #         SiteVerificationTag: "XYZabc"
-    
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+ 
 privacy:
     twitter:
         disabled: false
