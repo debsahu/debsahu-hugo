@@ -4,19 +4,41 @@ title: Debashish Sahu
 
 theme: "PaperMod"
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-73131870-1
+
 minify:
     disableXML: true
     minifyOutput: true
 
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
 outputs:
     home:
         - HTML
         - RSS
         - JSON
-# markup:
-#   goldmark:
-#     renderer:
-#       hardWraps: true
 
 params:
     env: production
@@ -28,35 +50,20 @@ params:
     ShowBreadCrumbs: true
     ShowToc: true
     defaultTheme: auto
-
-    homeInfoParams:
-        Title: "About me"
-        Content: >
-            ![deb](deb1.jpg)
-            
-            - During the day, I manage [BioNMR Core facility](https://bionmrcore.umich.edu/) at [University of Michigan](https://umich.edu/). I am a trained NMR spectroscopist who likes to utilize wide array of Biophysical techniques to understand protein function. My scientific work includes wide array of research areas ranging from structural biology, di-sulphide bond redox chemistry, protein dynamics, intrinsically disordered proteins (IDPs) to transcription factor translocation dynamics.
-
-            - During the night and weekends, one might find me coding [GitHub](https://www.github.com/debsahu) or tinkering with electronics. I have recently taught myself to work with wood and epoxy, while also playing with “smart devices” in the recent years. This has led to the creation of a YouTube Channel.
-  
     profileMode:
           enabled: true
           title: "<Title>"
-          subtitle: >
-              ### 🧪🧲NMR/Biophysics PhD 🥼Research 👨‍🔬Scientist 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
+          subtitle: > 
+            ### 🧪🧲NMR/Biophysics PhD 🥼Research 👨‍🔬Scientist 
 
-                &nbsp;
-
-                During the day, I manage [**BioNMR Core facility**](https://bionmrcore.umich.edu/) at [**University of Michigan**](https://umich.edu/). I am a trained NMR spectroscopist who likes to utilize wide array of Biophysical techniques to understand protein function. My scientific work includes wide array of research areas ranging from structural biology, di-sulphide bond redox chemistry, protein dynamics, intrinsically disordered proteins (IDPs) to transcription factor translocation dynamics.
-
-                &nbsp;
-
-                During the night and weekends, one might find me coding ([**GitHub**](https://www.github.com/debsahu)) or tinkering with electronics. I have recently taught myself to work with wood and epoxy, while also playing with “smart devices” in the recent years. This has led to the creation of a YouTube Channel.
-
+            ### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
           imageUrl: "deb1.jpg"
           imageTitle: "deb"
           imageWidth: 300
           imageHeight: 300
           buttons:
+              - name: Search
+                url: "/search"
               - name: Archive
                 url: "/archive"
               - name: Github
@@ -78,8 +85,12 @@ params:
         - name: "reddit"
           url: "https://www.reddit.com/user/debsahu/"
         - name: "email"
-          url: "debashish.sahu@gmail.com"
+          url: "mailto:debashish.sahu@gmail.com"
 
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+    
 privacy:
     twitter:
         disabled: false
