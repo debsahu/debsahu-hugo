@@ -1,5 +1,105 @@
-baseURL: http://debsahu.github.io/
+baseURL: https://debsahu.github.io/
 languageCode: en-us
 title: Debashish Sahu
 
 theme: "PaperMod"
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+# markup:
+#   goldmark:
+#     renderer:
+#       hardWraps: true
+
+params:
+    env: production
+    description: "Debashish Sahu - Personal Web Parking Location"
+    author: Debashish Sahu
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    defaultTheme: auto
+
+    homeInfoParams:
+        Title: "About me"
+        Content: >
+            ![deb](deb2.jpg)
+
+            - During the day, I manage [BioNMR Core facility](https://bionmrcore.umich.edu/) at [University of Michigan](https://umich.edu/). I am a trained NMR spectroscopist who likes to utilize wide array of Biophysical techniques to understand protein function. My scientific work includes wide array of research areas ranging from structural biology, di-sulphide bond redox chemistry, protein dynamics, intrinsically disordered proteins (IDPs) to transcription factor translocation dynamics.
+
+            - ![deb](deb1.jpg) During the night and weekends, one might find me coding [GitHub](https://www.github.com/debsahu) or tinkering with electronics. I have recently taught myself to work with wood and epoxy, while also playing with “smart devices” in the recent years. This has led to the creation of a YouTube Channel.
+  
+    profileMode:
+          enabled: true
+          title: "<Title>"
+          subtitle: >
+              ### 🧪🧲NMR/Biophysics PhD 🥼Research 👨‍🔬Scientist
+
+                During the day, I manage [**BioNMR Core facility**](https://bionmrcore.umich.edu/) at [**University of Michigan**](https://umich.edu/).
+                I am a trained NMR spectroscopist who likes to utilize wide array of Biophysical techniques to understand protein function.
+                My scientific work includes wide array of research areas ranging from structural biology, di-sulphide bond redox chemistry, protein dynamics, intrinsically disordered proteins (IDPs) to transcription factor translocation dynamics.
+
+                ![deb](deb1.jpg)
+
+              ### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
+
+                During the night and weekends, one might find me coding [GitHub](https://www.github.com/debsahu) or tinkering with electronics.
+                I have recently taught myself to work with wood and epoxy, while also playing with “smart devices” in the recent years.
+                This has led to the creation of a YouTube Channel.
+
+          imageUrl: "deb2.jpg"
+          imageTitle: "deb"
+          imageWidth: 300
+          imageHeight: 300
+          buttons:
+              - name: Archive
+                url: "/archive"
+              - name: Github
+                url: "https://www.github.com/debsahu"
+
+    socialIcons:
+        - name: "github"
+          url: "https://www.github.com/debsahu"
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
+        - name: "twitter"
+          url: "https://twitter.com/debsahu"
+        - name: "instagram"
+          url: "https://www.instagram.com/debsahu/"
+        - name: "facebook"
+          url: "https://www.facebook.com/debashish.sahu/"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/debashish-sahu-69234235/"
+        - name: "reddit"
+          url: "https://www.reddit.com/user/debsahu/"
+        - name: "email"
+          url: "debashish.sahu@gmail.com"
+
+privacy:
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
