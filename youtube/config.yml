@@ -68,7 +68,7 @@ params:
           imageWidth: 300
           imageHeight: 300
           buttons:
-              - name: Scietific Research
+              - name: Scientific Research
                 url: "https://sites.lsa.umich.edu/debsahu/"
               - name: Search
                 url: "/search"
