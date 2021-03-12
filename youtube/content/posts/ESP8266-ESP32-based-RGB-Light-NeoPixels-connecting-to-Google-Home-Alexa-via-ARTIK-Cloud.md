@@ -1,7 +1,8 @@
 ---
 title: "ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home & Alexa via ARTIK Cloud"
 date: 2019-02-09T00:00:00-05:00
-draft: true
+tags: ["ESP8266", "ESP32", "MQTT", "IoT", "RGB", "LED", "NeoPixel"]
+categories: ['iot']
 ---
 
 {{<youtube baNO_8L5-RY>}}
