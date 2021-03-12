@@ -73,7 +73,7 @@ params:
               - name: Search
                 url: "/search"
               - name: Posts
-                url: "/archive"
+                url: "/archives"
               - name: Github
                 url: "https://www.github.com/debsahu"
               - name: YouTube
