@@ -35,8 +35,8 @@ As a part of the third step in our plan, we need to subscribe to our MQTT topic 
 
 ## Hardware
 
-- Wemos D1 mini (ESP8266) link
-- Max7219 Dot Matrix Display here
+- [Wemos D1 mini (ESP8266)](https://amzn.to/2OLCcmJ)
+- [Max7219 Dot Matrix Display](https://amzn.to/3eII9Mf)
 
 ## Software
 

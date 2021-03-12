@@ -1,5 +1,5 @@
 ---
-title: "How to Build a 3 3V Voltage Regulator"
+title: "How to Build a 3.3V Voltage Regulator"
 date: 2017-02-25T00:00:00-05:00
 tags: ['ams1117', 'voltage regulator']
 ---
