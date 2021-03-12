@@ -1,5 +1,5 @@
 ---
-title: "RobinhoodAPI Live Stock Prices From Robinhood on ESP8266"
+title: "RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266"
 date: 2018-04-28T00:00:00-05:00
 tags: ["ESP8266", "Rest API", "IoT", "stock"]
 categories: ['iot']
