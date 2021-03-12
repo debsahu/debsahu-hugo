@@ -1,6 +1,6 @@
-baseURL: "/"
+# baseURL: https://debsahu.pages.dev/
 # baseURL: https://debsahu.github.io/
-# baseURL: https://www.debashishsahu.com/
+baseURL: https://www.debashishsahu.com/
 languageCode: en-us
 title: Debashish Sahu
 
