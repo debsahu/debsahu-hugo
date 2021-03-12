@@ -2,6 +2,7 @@
 title: "Internet Connected Dog Water Bowl Sensor"
 date: 2017-10-15T00:00:00-05:00
 tags: ["ESP8266", "MQTT", "Home Assistant", "IoT", "sensor"]
+categories: ['iot']
 ---
 
 {{<youtube AfrIyBWgfdM>}}

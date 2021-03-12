@@ -2,6 +2,7 @@
 title: "MOSFET Used as Switch to Control a 12V Fan"
 date: 2017-03-12T00:00:00-05:00
 tags: ['MOSFET', 'Fan', 'PWM']
+categories: ['iot']
 ---
 
 {{<youtube 6Rd6D_bd9pI>}}
