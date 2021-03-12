@@ -26,3 +26,6 @@ git push origin main
 
 # get out of public dir
 cd ..
+
+# Push src to GitHub
+& "$PSScriptRoot\pushsrc.ps1"

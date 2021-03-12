@@ -76,7 +76,7 @@ params:
                 url: "/search"
               - name: Posts
                 url: "/archives"
-              - name: Github
+              - name: GitHub
                 url: "https://www.github.com/debsahu"
               - name: YouTube
                 url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
