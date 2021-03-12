@@ -9,7 +9,7 @@ categories: ['iot']
 
 #
 
-Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands (https://www.home-assistant.io/developers/rest_api/).
+Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses [RESTful API commands](https://www.home-assistant.io/developers/rest_api/).
 
 ## Idea
 
