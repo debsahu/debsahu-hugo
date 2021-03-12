@@ -23,3 +23,6 @@ git commit -m "$msg"
 
 # Push git
 git push origin main
+
+# get out of public dir
+cd ..
