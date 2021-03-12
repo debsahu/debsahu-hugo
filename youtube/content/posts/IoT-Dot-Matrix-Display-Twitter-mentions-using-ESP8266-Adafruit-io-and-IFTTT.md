@@ -1,7 +1,7 @@
 ---
 title: "IoT Dot Matrix Display: Twitter Mentions Using ESP8266 Adafruit.io and IFTTT"
 date: 2017-02-17T00:00:00-05:00
-tags: ['ESP8266','Displays', 'IoT', 'MQTT', 'WiFi','IFTTT']
+tags: ['ESP8266','Displays', 'IoT', 'MQTT', 'WiFi','IFTTT', 'twitter']
 ---
 
 {{<youtube JTxpx9XMpjU>}}
