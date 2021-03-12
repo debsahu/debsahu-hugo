@@ -51,7 +51,7 @@ params:
     description: "Debashish Sahu - Personal Web Parking Location"
     author: Debashish Sahu
     ShowShareButtons: true
-    ShowReadingTime: true
+    ShowReadingTime: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowToc: true
@@ -65,8 +65,8 @@ params:
             ### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
           imageUrl: "deb1.jpg"
           imageTitle: "deb"
-          imageWidth: 300
-          imageHeight: 300
+          imageWidth: 275
+          imageHeight: 275
           buttons:
               - name: Scientific Research
                 url: "https://sites.lsa.umich.edu/debsahu/"
