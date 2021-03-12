@@ -48,6 +48,8 @@ outputs:
         - RSS
         - JSON
 
+disqusShortname: debsahu
+
 params:
     env: production
     description: "Debashish Sahu - Personal Web Parking Location"
@@ -56,6 +58,7 @@ params:
     ShowReadingTime: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
+    comments: true
     ShowToc: true
     defaultTheme: auto
     profileMode:
@@ -88,10 +91,8 @@ params:
           url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
         - name: "twitter"
           url: "https://twitter.com/debsahu"
-        - name: "instagram"
-          url: "https://www.instagram.com/debsahu/"
-        - name: "facebook"
-          url: "https://www.facebook.com/debashish.sahu/"
+        - name: RsS
+          url: "index.xml"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/debashish-sahu-69234235/"
         - name: "reddit"

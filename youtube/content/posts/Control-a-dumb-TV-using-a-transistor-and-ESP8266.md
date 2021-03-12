@@ -1,8 +1,8 @@
 ---
 title: "Control a \"Dumb\" TV Using a Transistor and ESP8266"
 date: 2019-01-14T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "2n2222", "switch", "IoT", "TV", "smart", "repair"]
-categories: ['iot','repair']
+tags: ["ESP8266", "ESP32", "2n2222", "switch", "IoT", "TV", "smart", "hacking"]
+categories: ['iot','hack']
 ---
 
 {{<youtube MmY-NLU-UN0>}}
