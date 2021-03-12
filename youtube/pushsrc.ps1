@@ -1,3 +1,8 @@
+param (
+    [string]$msg = $(date)
+)
+# PowerShell
+
 # Add git changes
 git add .
 
@@ -8,11 +13,6 @@ git add .
 # if [ -n "$*" ]; then
 #     msg="$*"
 # fi
-
-# PowerShell
-param (
-    [string]$msg = "$(date)"
-)
 
 git commit -m "$msg"
 
