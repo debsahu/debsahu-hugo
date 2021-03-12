@@ -1,3 +1,8 @@
+param (
+    [string]$msg = "rebuilding site $(date)"
+)
+# PowerShell
+
 # Build the project
 hugo
 
@@ -8,10 +13,12 @@ cd public
 git add .
 
 # Commit changes
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-    msg="$*"
-fi
+
+# # Bash
+# msg="rebuilding site $(date)"
+# if [ -n "$*" ]; then
+#     msg="$*"
+# fi
 git commit -m "$msg"
 
 # Push git

@@ -1,5 +1,5 @@
 param (
-    [string]$msg = $(date)
+    [string]$msg = "HUGO Source as of $(date)"
 )
 # PowerShell
 
