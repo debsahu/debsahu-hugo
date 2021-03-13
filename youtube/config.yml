@@ -95,6 +95,8 @@ params:
           url: "https://www.reddit.com/user/debsahu/"
         - name: "email"
           url: "mailto:debashish.sahu@gmail.com"
+        - name: "googlescholar"
+          url: "https://scholar.google.com/citations?user=x_QY8tIAAAAJ&hl=en"
 
     # analytics:
     #     google:
