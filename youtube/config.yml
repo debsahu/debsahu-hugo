@@ -65,22 +65,18 @@ params:
           enabled: true
           title: "<Title>"
           subtitle: > 
-            ### 🧪🧲NMR/Biophysics Ph. D. 🥼Research 👨‍🔬Scientist 
+            #### 🧪🧲NMR/Biophysics Ph. D. 🥼Director-Biomolecular NMR Research Lab 👨‍🔬Scientist 
 
-            ### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
+            #### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
           imageUrl: "deb1.jpg"
           imageTitle: "deb"
-          imageWidth: 275
-          imageHeight: 275
+          imageWidth: 250
+          imageHeight: 250
           buttons:
               - name: Scientific Research
                 url: "https://sites.lsa.umich.edu/debsahu/"
-              - name: Search
-                url: "/search"
               - name: Posts
                 url: "/archives"
-              - name: GitHub
-                url: "https://www.github.com/debsahu"
               - name: YouTube
                 url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
 
