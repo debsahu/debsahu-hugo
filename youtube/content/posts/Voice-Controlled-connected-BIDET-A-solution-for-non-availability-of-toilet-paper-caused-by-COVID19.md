@@ -7,6 +7,8 @@ categories: ['iot','hack']
 
 {{<youtube 8E9doeUO8F0>}}
 
+#
+
 Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
 
 ## Wilbur Sargunaraj
