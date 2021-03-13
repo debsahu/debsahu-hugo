@@ -1,5 +1,5 @@
 ---
-title: "Connect to AWS IoT While Making Masala Chai ASMR"
+title: "Connect to AWS IoT While Making Masala Chai [ASMR]"
 date: 2019-02-18T00:00:00-05:00
 tags: ['ESP8266','MQTT', 'IoT', 'AWS', 'Amazon','smart devices']
 categories: ['iot']
