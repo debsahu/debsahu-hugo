@@ -9,9 +9,9 @@ categories: ['iot','home decor']
 
 #
 
-## Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
+Permanent holiday lights hardware and software setup using NeoPixels/WS2812B LEDs
 
-### Hardware
+## Hardware
 
 - LEDs: https://amzn.to/2Lu4m3P
 - Aluminum Channels: https://amzn.to/2Knajio
@@ -26,7 +26,7 @@ categories: ['iot','home decor']
 
 PCB: https://github.com/toblum/McLighting/tree/master/documentation/pcb
 
-### Software
+## Software
 
 - WELD - [GitHub: Aircoookie/WLED](https://github.com/Aircoookie/WLED)
 
