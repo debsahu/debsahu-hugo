@@ -1,7 +1,7 @@
 ---
 title: "DIY Mud Room Bench | Solid Wood & Power Tools"
 date: 2020-11-22T23:09:09-05:00
-tags: ['diy','wood working','bench','delix']
+tags: ['diy','wood working','bench','mud room']
 categories: ['home decor','wood working']
 ---
 

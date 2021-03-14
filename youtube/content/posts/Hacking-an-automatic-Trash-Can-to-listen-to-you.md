@@ -2,7 +2,7 @@
 title: "Hacking an Automatic Trash Can to Listen to You"
 date: 2018-10-22T00:00:00-05:00
 tags: ["ESP8266", "ESP32", "wemo emulator", "Home Assistant", "IoT", "sensor"]
-categories: ['iot', 'hacking']
+categories: ['iot', 'hack']
 ---
 
 {{<youtube BBDi1uOJqV8>}}
