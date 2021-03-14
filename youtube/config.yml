@@ -61,6 +61,8 @@ params:
     comments: true
     ShowToc: true
     defaultTheme: auto
+    label:
+      icon: '/logo.svg'
     profileMode:
           enabled: true
           title: "<Title>"
