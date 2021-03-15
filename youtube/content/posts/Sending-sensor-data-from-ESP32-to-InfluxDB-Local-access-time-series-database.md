@@ -40,6 +40,7 @@ Listed below are the dpendencies used by Arduino IDE, but use **[PlatformIO](htt
 | Library                   | Link                                                            | Use                 |
 |---------------------------|-----------------------------------------------------------------|---------------------|
 |ESP8266 Influxdb           |https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino     |http comm restapi    |
+|Adafruit BME280 Library    |https://github.com/adafruit/Adafruit_BME280_Library              |sensor               |
 
 #
 
