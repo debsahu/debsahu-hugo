@@ -21,7 +21,7 @@ Demonstration on ESP8266 & ESP32 using SSL/TLSv1.2 two-way handshake with secure
 
 ### Dependencies
 
-Listed below are the dpendencies used by Arduino IDE, but use **[PlatformioIO](https://platformio.org/)** instead!
+Listed below are the dpendencies used by Arduino IDE, but use **[PlatformIO](https://platformio.org/)** instead!
 
 | Library                   | Link                                                            | Use                 |
 |---------------------------|-----------------------------------------------------------------|---------------------|
