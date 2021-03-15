@@ -1,13 +1,15 @@
 ---
 title: "Sending sensor data from ESP32 to InfluxDB | Local access - time-series database"
 date: 2021-03-15T10:00:00-04:00
-tags: ["ESP32", "WiFi", "WPA2-Enterprise", "IoT", "lolin D32"]
+tags: ["ESP32", "WiFi", "WPA2-Enterprise", "IoT", "lolin D32","influxdb","big data"]
 categories: ['iot']
 ---
 
 {{<youtube Jr3KbuwHPgw>}}
 
 #
+
+Instead of sending data to services in the cloud, here we send sensor data to local InfluxDB database. Grafana is used to read data from InfluxDB and alert thresholds are set to send reactive alerts.
 
 ## ESP32 connecting to WPA2-Enterprise
 
