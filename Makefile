@@ -16,15 +16,13 @@ build:
 
 	cd youtube/public
 	git add .
-	msg="rebuilding site $(date)"
-	git commit -m "$msg"
+	git commit -m "Rebuilding site $(shell date)"
 	git push origin main
 	cd ../..
 
 deploy:
 	git add .
-	msg="HUGO Source as of $(date)"
-	git commit -m "$msg"
+	git commit -m "HUGO Source as of $(shell date)"
 	git push origin main
 
 shell:
