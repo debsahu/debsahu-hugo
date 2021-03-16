@@ -1,2 +1,9 @@
 # debsahu-hugo
-learning hugo to host a website
+
+HUGO inside docker
+
+## > make serve
+
+## > make build
+
+## > make shell
