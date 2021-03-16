@@ -4,7 +4,7 @@ param (
 # PowerShell
 
 # Build the project
-hugo
+hugo --gc --minify
 
 # Goto public folder
 cd public
