@@ -21,8 +21,9 @@ build:
 # 	cd ../..
 
 deploy:
+	git config push.recurseSubmodules on-demand
 	git add .
-	git commit -m "HUGO Source as of $(shell date)"
+	git commit -m "HUGO src-prod as of $(shell date)"
 	git push origin main
 
 shell:
