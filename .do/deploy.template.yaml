@@ -7,3 +7,6 @@ spec:
       branch: main
       repo_clone_url: https://github.com/debsahu/debsahu-hugo.git
     name: debsahu-hugo
+    envs:
+    - key: HUGO_VERSION
+      value: 0.81.0
