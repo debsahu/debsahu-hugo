@@ -1,7 +1,7 @@
 spec:
   name: debsahu-hugo
   static_sites:
-  - build_command: rm -r ./public; hugo --source youtube --destination ./public
+  - build_command: rm -r ./public; hugo --destination ./public
     environment_slug: hugo
     git:
       branch: main
@@ -13,3 +13,4 @@ spec:
       value: 0.81.0
     routes:
     - path: /
+    source_dir: youtube
