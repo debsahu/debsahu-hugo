@@ -10,4 +10,4 @@ HUGO inside docker
 
 ## Digital Ocean
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/debsahu/debsahu-hugo/tree/do)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/debsahu/debsahu-hugo/tree/main)
