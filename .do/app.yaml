@@ -1,15 +1,15 @@
 name: debsahu-hugo
 static_sites:
-- build_command: rm -r ./public; hugo --source youtube --destination ./public
+- build_command: rm -r ./public; hugo --destination ./public
   environment_slug: hugo
-  git:
-    branch: main
-    deploy_on_push: true
-    repo_clone_url: https://github.com/digitalocean/sample-hugo.git
-  name: debsahu-hugo
   envs:
   - key: HUGO_VERSION
     scope: BUILD_TIME
     value: 0.81.0
+  git:
+    branch: main
+    repo_clone_url: https://github.com/debsahu/debsahu-hugo.git
+  name: debsahu-hugo
   routes:
   - path: /
+  source_dir: youtube
