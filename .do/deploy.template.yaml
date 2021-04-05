@@ -9,4 +9,7 @@ spec:
     name: debsahu-hugo
     envs:
     - key: HUGO_VERSION
+      scope: BUILD_TIME
       value: 0.81.0
+    routes:
+    - path: /
