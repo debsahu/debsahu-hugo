@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/google/</link>
+    <description>Recent content in google on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP8266 Making Google Home Speak</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-making-google-home-speak/</guid>
+      <description>Using esp8266-google-home-notifier library on ESP8266 to make Google Home speak!
+Software Prerequisites/Limitations  The GoogleHomeName must match the name of Google Home / mini setup in Google Home App. The ESP8266 must be on the same network as Google Home. MDNS: Dont include ESP8266mDNS.h supplied by Arduino-ESP8266. Internal ESP8266mDNS.h should suffice.  Libraries required  esp8266-google-home-notifier esp8266-google-tts WiFiManager (optional)  GitHub: debsahu/GoogleSay sercret.h
+#define SECRETconst char* ssid = &amp;quot;&amp;lt;WiFiSSID&amp;gt;&amp;quot;;const char* password = &amp;quot;&amp;lt;WiFiPassword&amp;gt;&amp;quot;;GoogleSay.</description>
+    </item>
+    
+  </channel>
+</rss>

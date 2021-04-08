@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LED on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/led/</link>
+    <description>Recent content in LED on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blinking LEDs Using Inductive Qi Charger | No Batteries</title>
+      <link>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/blinking-leds-using-inductive-qi-charger-no-batteries/</guid>
+      <description>Nothing new, trying to build something based on video on stranger parts
+   We build a coil with magnet wire and connect them to a LED. The LED blinks when coil is placed on Qi charger.</description>
+    </item>
+    
+    <item>
+      <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
+      <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
+      <description>    Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
+Software: ESPHome  </description>
+    </item>
+    
+    <item>
+      <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</guid>
+      <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
+Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
+GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
+ Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+    </item>
+    
+    <item>
+      <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
+      <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
+      <description>     Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos!  </description>
+    </item>
+    
+    <item>
+      <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
+      <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</guid>
+      <description>Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.
+Other projects with E1.31 support:
+ GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting  I also demonstrate how to setup and use Jinx!, ledfx and xLights
+GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
+ Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
+    </item>
+    
+    <item>
+      <title>Building LED String Using Capacitive Dropper</title>
+      <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
+      <description>    Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
+Inspired from bigclive&amp;rsquo;s project   </description>
+    </item>
+    
+  </channel>
+</rss>

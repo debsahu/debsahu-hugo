@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stock on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/stock/</link>
+    <description>Recent content in stock on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/stock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RobinhoodAPI: Live Stock Prices From Robinhood on ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/robinhoodapi-live-stock-prices-from-robinhood-on-esp8266/</guid>
+      <description>A simple Arduino library that retrieves live stock prices from www.robinhood.com in JSON format and processes it for ESP8266. In one example, we demonstrate a whole bunch of stock prices scrolling through a dot-matrix display.
+Github: debsahu/RobinhoodAPI An Arduino library to talk to Robin Hood using non-documented Rest API made for ESP8266. Some unofficial documentaion by @sanko is available at here]
+Using the Library  Download this GitHub library.</description>
+    </item>
+    
+    <item>
+      <title>Stock Prediction on Python Using Machine Learning (NARX)</title>
+      <link>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/stock-prediction-on-python-using-machine-learning-narx/</guid>
+      <description>This video is a collaboration with my wife who does &amp;ldquo;machine learning on big data&amp;rdquo; for a living. Here is a naive attempt at predicting a particular stock&amp;rsquo;s price and displaying it on a ESP8266. This algorithm is not the best one out there, but what is being shown here is the ability to port it elsewhere and easily integrate these complex models with micro-controllers (ESP8266) and other devices.</description>
+    </item>
+    
+  </channel>
+</rss>

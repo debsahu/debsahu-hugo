@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wsl on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/wsl/</link>
+    <description>Recent content in wsl on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux on Windows 10</title>
+      <link>https://www.debashishsahu.com/posts/linux-on-windows-10/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/linux-on-windows-10/</guid>
+      <description>Here we attempt to use Linux on Windows.
+WSL on Windows: https://aka.ms/wslinstall
+Canonical Multipass: https://github.com/CanonicalLtd/multipass</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>battery on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/battery/</link>
+    <description>Recent content in battery on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/battery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Button: Amazon &#34;Dash&#34; Type Button to Communicate to Home-Assistant</title>
+      <link>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/the-button-amazon-dash-type-button-to-communicate-to-home-assistant/</guid>
+      <description>An attempt to build a Amazon &amp;ldquo;Dash&amp;rdquo; type button to communicate with Home Assistant, which is a combination of two different projects
+GitHub: debsahu/TheButton Things we want to achieve:  Low on power consumtion: ESP8266 is OFF when the button is not pressed debsahu/ESP_External_Interrupt Portable: Uses 18650 battery, lasts years Talks to Home Assistant: debsahu/HARestAPI    ESP_External_Interrupt  GitHub: https://github.com/debsahu/ESP_External_Interrupt
+  HARestAPI  GitHub: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Internet Connected Smoke Alarm</title>
+      <link>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/internet-connected-smoke-alarm/</guid>
+      <description>Have you wondered how to build a internet connected smoke alarm using ESP8266 and a cheap Kidde RF-SM-DC?
+Overall idea is to detect smoke alarm signals and send MQTT message. Home Assistant reads the MQTT message and sends out notifications that can be used to notify your local fire station.
+ESP8266 sends a MQTT message until the smoke alarm is beeping.
+Software Refer to https://github.com/debsahu/ESP_External_Interrupt to build the ESP8266 part of the internet connected smoke alarm.</description>
+    </item>
+    
+    <item>
+      <title>Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt</title>
+      <link>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/extreme-power-save-mode-esp8266-powered-on-after-external-interrupt/</guid>
+      <description>Have you ever wondered how to turn on ESP8266 using external interrupt? Build a battery powered amazon dash button or a 18650 lipo powered door bell using ESP8266 without putting the device in deep sleep? Here is your answer.
+Idea  Keep ESP8266 on OFF mode as default External 3.3V signal (can be short or long) arrives and turns ON ESP8266 ESP8266 wakes up and keeps itself awake until a task is perfomed Send MQTT data to server Put ESP8266 back to power OFF state  Implementation  RST pin is always HIGH/3.</description>
+    </item>
+    
+  </channel>
+</rss>

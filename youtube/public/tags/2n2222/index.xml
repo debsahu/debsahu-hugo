@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2n2222 on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/2n2222/</link>
+    <description>Recent content in 2n2222 on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/2n2222/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
+      <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
+      <description>    Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
+Wilbur Sargunaraj   Software: ESPHome  </description>
+    </item>
+    
+    <item>
+      <title>Control a &#34;Dumb&#34; TV Using a Transistor and ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
+      <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
+GitHub: debsahu/PegasusTV Goal:  Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant  Features:  Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND  Hardware Software Overview Libraries Needed platformio.</description>
+    </item>
+    
+  </channel>
+</rss>

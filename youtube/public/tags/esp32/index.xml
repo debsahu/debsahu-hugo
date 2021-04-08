@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP32 on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/esp32/</link>
+    <description>Recent content in ESP32 on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sending sensor data from ESP32 to InfluxDB | Local access - time-series database</title>
+      <link>https://www.debashishsahu.com/posts/sending-sensor-data-from-esp32-to-influxdb-local-access-time-series-database/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/sending-sensor-data-from-esp32-to-influxdb-local-access-time-series-database/</guid>
+      <description>Instead of sending data to services in the cloud, here we send sensor data to local InfluxDB database. Grafana is used to read data from InfluxDB and alert thresholds are set to send reactive alerts.
+InfluxDB Download and Installation: official docs
+Docker Download and Installation: official docs
+ESP32 connecting to WPA2-Enterprise   Hardware  ESP32 TTGo T-Energy SSD1306 OLED display BME280 sensor  Software Dependencies Listed below are the dpendencies used by Arduino IDE, but use PlatformIO instead!</description>
+    </item>
+    
+    <item>
+      <title>Connect ESP32 to WPA2-Enterprise WiFi (eduroam: University of Michigan Wireless)</title>
+      <link>https://www.debashishsahu.com/posts/connect-esp32-to-wpa2-enterprise-wifi-eduroam-university-of-michigan-wireless/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/connect-esp32-to-wpa2-enterprise-wifi-eduroam-university-of-michigan-wireless/</guid>
+      <description>Walkthrough of minimal settings for ESP32 to connect to WPA2-Enterprise WiFi at University of Michigan (eduroam)
+GitHub: debsahu/Esp32_EduWiFi Minimal settings for ESP32 to connect to University of Michigan WiFi (MWireless/eduroam)
+ MSetup   Go to MSetup
+  Log in using University of Michigan credentials
+  Select Other Device and log in again if needed
+  Enter Device Name, MAC Address, uniqname will already be selected, Advanced Options &amp;gt; Network Type &amp;gt; Internet Access After above settings are enterd, click on Register my device</description>
+    </item>
+    
+    <item>
+      <title>DIY Smart Deck Lights | ESPHome | Home Assistant controlled</title>
+      <link>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/diy-smart-deck-lights-esphome-home-assistant-controlled/</guid>
+      <description>    Building a Home Assistant controlled ESP32 based controller for deck LED lights via ESPHome.
+Software: ESPHome  </description>
+    </item>
+    
+    <item>
+      <title>DIY Smart Wooden Faux Beam Pendent Lights | ESPHome | Smart Plant Lights | Home Assistant controlled</title>
+      <link>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/diy-smart-wooden-faux-beam-pendent-lights-esphome-smart-plant-lights-home-assistant-controlled/</guid>
+      <description>    DIY Faux wood-beam lights mode from cedar fence pickets. Light is controlled by Sonoff Mini.
+Pendent Lights: amazon
+Software: ESPHome  </description>
+    </item>
+    
+    <item>
+      <title>Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19</title>
+      <link>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/voice-controlled-connected-bidet-a-solution-for-non-availability-of-toilet-paper-caused-by-covid19/</guid>
+      <description>    Install of Biobidet Bliss BB200 and connecting it to Home-Assistant.
+Wilbur Sargunaraj   Software: ESPHome  </description>
+    </item>
+    
+    <item>
+      <title>ESP32 to Process Audio Signals: Software (Fourier Transforms) and Hardware (MSGEQ7)</title>
+      <link>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp32-to-process-audio-signals-software-fourier-transforms-and-hardware-msgeq7/</guid>
+      <description>Here we use ESP32 microcontroller to analyze real-time audio signals
+ Real-time FFT to get frequencies Use MSGEQ7 chip to get the same data Display frequency bands on LEDs as bars  FFT basics:   GitHub: debsahu/ESP32_FFT_Audio_LEDs Libraries Needed Software FFT platformio.ini and Hardware FFT platformio.ini is included, use PlatformIO and it will take care of installing the following libraries.
+   Library Link     arduinoFFT https://github.</description>
+    </item>
+    
+    <item>
+      <title>ESP8266/ESP3232: Home Assistant Switch Connected to PCF8574 Controlling 8 AC Relays</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-esp3232-home-assistant-switch-connected-to-pcf8574-controlling-8-ac-relays/</guid>
+      <description>Home Assistant Switch for 8 Relays: PCF8574 can be used to extend the GPIO of ESP8266/32 and here we use 8 ports of PCF8574 to control 8 Relay module
+GitHub: debsahu/PCF8574_8Relay Home Assistant Switch for 8 Relays
+ Code can compile on ESP8266/32 PCF8574 can be used to extend the GPIO of ESP8266/32 8 ports of PCF8574 is connected to 8 Relay module  Libraries Needed platformio.</description>
+    </item>
+    
+    <item>
+      <title>ESP8266/ESP32 Based RGB Light (NeoPixels) Connecting to Google Home &amp; Alexa via ARTIK Cloud</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-esp32-based-rgb-light-neopixels-connecting-to-google-home-alexa-via-artik-cloud/</guid>
+      <description>⚠️ ⚠️ ⚠️ ARTIK Cloud has been depcreciated by Samsung ⚠️ ⚠️ ⚠️ Here we create an ESP8266/32 based device that emulates a RGB LED light using NeoPixels, which connects to ATRIK cloud. ARTIK cloud connects to smart home assistants like Google Home, Amazon Alexa, etc.
+Connecting to Samsung ARTIK Cloud https://my.artik.cloud/
+GitHub: debsahu/ARTIKCloud An application made for ESP8266 to comunicate with ARTIK Cloud
+ Connects to ARTIK Cloud via MQTT SSL port 8883 ARTIK Cloud is connected to all assistant platforms, integration is seamless Compiles on ESP8266-arduino core v2.</description>
+    </item>
+    
+    <item>
+      <title>Control a &#34;Dumb&#34; TV Using a Transistor and ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/control-a-dumb-tv-using-a-transistor-and-esp8266/</guid>
+      <description>The goal here is to control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant. We tap into the push button of the TV and use a transistor along with ESP8266 to mimic a button press.
+GitHub: debsahu/PegasusTV Goal:  Control a &amp;ldquo;dumb&amp;rdquo; TV using virtual assistants via Home Assistant  Features:  Uses D2 to control 2N2222 transistor Control using Web and MQTT API Completely Async WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Connect PIN_CTRL pin to base of 2N2222, collector to Probe and emitter to GND  Hardware Software Overview Libraries Needed platformio.</description>
+    </item>
+    
+    <item>
+      <title>NeoPixel Painter Draw Using LEDs on Thin Air</title>
+      <link>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/neopixel-painter-draw-using-leds-on-thin-air/</guid>
+      <description>     Exploiting low light photography with long exposure to paint in thin air using NeoPixels LED strips. Here we send real-time data using the E1.31 sACN protocol to a ESP8266 code: https://github.com/debsahu/E131_PixelPusher that displays strips of pictures over time. These bright lights are registered on the sensors of camera yielding out of the world photos!  </description>
+    </item>
+    
+    <item>
+      <title>E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels</title>
+      <link>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/e1-31-pixel-pusher-sending-e1-31-udp-data-to-esp8266-displayed-on-neopixels/</guid>
+      <description>Here we try to push E1.31 UDP data received wirelessly via ESP8266 and pushed to NeoPixel in the fastest way possible.
+Other projects with E1.31 support:
+ GitHub: forkineye/ESPixelStick GitHub: Aircoookie/WLED GitHub: toblum/McLighting  I also demonstrate how to setup and use Jinx!, ledfx and xLights
+GitHub: debsahu/E131_PixelPusher Minimalistic Async code around Async E131 for ESP8266/ESP32
+ Completely Async Web-interface to set starting universe, unicast/umulticast, total number of universes WiFiManager Captive Portal to get WiFi credentials (Compile with -DUSE_EADNS for ESP8266) Subscribes to E131 multicast Connect RX/GPIO3 to DIN of NeoPixel strip, and any PIN (&amp;lt;GPIO32) specified for ESP32 Upload included firmware.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Home Assistant Web Scraper Sensor</title>
+      <link>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/creating-a-home-assistant-web-scraper-sensor/</guid>
+      <description>Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
+GitHub: debsahu/lxmlWebScraper Here is a demonstration of using lxml for scraping a website to extract essential HTML data and pass the data as sensor to Home Assistant.
+Overview Installing lxml If working in virtual environment, install lxml using pip
+$ pip3 install lxmlIf working on python installation installed globally</description>
+    </item>
+    
+    <item>
+      <title>ESP8266/ESP32 Connecting to SSL/TLSv1.2 Secured Mosquitto MQTT Broker</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-esp32-connecting-to-ssl-tlsv1-2-secured-mosquitto-mqtt-broker/</guid>
+      <description>Demonstration on ESP8266 &amp;amp; ESP32 using SSL/TLSv1.2 two-way handshake with secured mosquitto broker. SSL is preferred way of encryption of communication between devices over the internet. Here we secure a mosquitto MQTT broker and connect to it via ESP8266 &amp;amp; ESP32 that do a two-way handshake.
+Andreas Spiess on ESP devices &amp;amp; SSL: https://www.youtube.com/watch?v=Wm1xKj4bKsY
+GitHub: debsahu/ESP_MQTT_Secure ⚠️ ⚠️ ⚠️ Will not be maintained/updated ⚠️ ⚠️ ⚠️</description>
+    </item>
+    
+    <item>
+      <title>Hacking an Automatic Trash Can to Listen to You</title>
+      <link>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/hacking-an-automatic-trash-can-to-listen-to-you/</guid>
+      <description>Idea To convert an automatic trash can into a smart one.
+Hardware  Automatic Trash Can Wemos D1 mini (ESP8266) 2N2222 transistor  Implementation Here we use an ESP8266 to tap into the pins and emulate a physical button press. The ESP8266 uses a code as described in https://github.com/debsahu/SmartTrashCan to emulate a Wemo Switch, which is detected by Alexa/Echo device as a switch.
+GitHub: debsahu/SmartTrashCan Dependencies    Library Link Use     Wemo Switch Emulator Library https://github.</description>
+    </item>
+    
+    <item>
+      <title>Using Gestures to Control Lights on Home-Assistant</title>
+      <link>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/using-gestures-to-control-lights-on-home-assistant/</guid>
+      <description>    Getting one&amp;rsquo;s hands on APDS9960 is very easy, that can be used to detect hand gestures. Here we use this sensor to control lights on Home Assistant based on a gesture observed on sensor.
+Software Libraries used:  HARestAPI GitHub: debsahu/HARestAPI APDS9960 GitHub: SteveQuinn1/SparkFun_APDS-9960_Sensor_Arduino_Library SSD1306 OLED I2C GitHub: ThingPulse/esp8266-oled-ssd1306   </description>
+    </item>
+    
+    <item>
+      <title>ESP32 Communicating With Xiaomi Flora Plant Sensor Using BLE</title>
+      <link>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp32-communicating-with-xiaomi-flora-plant-sensor-using-ble/</guid>
+      <description>Using ESP32 to communicate with Xiaomi flora (miflora) plant sensor using BLE and posting the values on MQTT server. I also demonstrate the use of Home Assistant miflora sensor component.
+Change ESP32 Partition: https://desire.giesecke.tk/index.php/2018/04/20/change-partition-size-arduino-ide/ Home Assistant miflora sensor: https://www.home-assistant.io/components/sensor.miflora/
+GitHub: sidddy/flora Archived code from https://github.com/sidddy/flora below
+config.h
+// array of different xiaomi flora MAC addresseschar* FLORA_DEVICES[] = {&amp;quot;C4:7C:8D:67:11:11&amp;quot;, &amp;quot;C4:7C:8D:67:22:22&amp;quot;, &amp;quot;C4:7C:8D:67:33:33&amp;quot;};// sleep between to runs in seconds#define SLEEP_DURATION 30 * 60// emergency hibernate countdown in seconds#define EMERGENCY_HIBERNATE 3 * 60// how often should the battery be read - in run count#define BATTERY_INTERVAL 6// how often should a device be retried in a run when something fails#define RETRY 3const char* WIFI_SSID = &amp;quot;ssid&amp;quot;;const char* WIFI_PASSWORD = &amp;quot;password&amp;quot;;// MQTT topic gets defined by &amp;quot;&amp;lt;MQTT_BASE_TOPIC&amp;gt;/&amp;lt;MAC_ADDRESS&amp;gt;/&amp;lt;property&amp;gt;&amp;quot;// where MAC_ADDRESS is one of the values from FLORA_DEVICES array// property is either temperature, moisture, conductivity, light or batteryconst char* MQTT_HOST = &amp;quot;10.</description>
+    </item>
+    
+    <item>
+      <title>HARestAPI: Control Home Assistant Directly Using ESP8266</title>
+      <link>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/harestapi-control-home-assistant-directly-using-esp8266/</guid>
+      <description>Control components on Home Assistant directly from ESP8266. This is an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA. This uses RESTful API commands.
+Idea  Control components on Home Assistant directly from ESP8266.  Implementation  Develop an Arduino Library that can be used in various projects without the requirement of setup of a MQTT sensor + automation on HA.</description>
+    </item>
+    
+  </channel>
+</rss>

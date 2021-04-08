@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/aws/</link>
+    <description>Recent content in AWS on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect to AWS IoT While Making Masala Chai [ASMR]</title>
+      <link>https://www.debashishsahu.com/posts/connect-to-aws-iot-while-making-masala-chai-asmr/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/connect-to-aws-iot-while-making-masala-chai-asmr/</guid>
+      <description>Don&amp;rsquo;t confuse Masala Chai with Chai Latte, no not the same thing! While we make chai during the snowy season, lets connect ESP8266/32 to Amazon&amp;rsquo;s AWS IoT in less than 5 minutes.
+AWS IoT Core Instructions Goto AWS IoT Core on your AWS console
+Create a Policy   Generate a Policy first   Create a Policy details
+   Provide a Name Action: iot:* Resource ARM: * Effect: Allow   Create a Thing   Create a Thing first   Single Thing</description>
+    </item>
+    
+    <item>
+      <title>ESP8266 Talking to AWS IoT Using MQTT</title>
+      <link>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/esp8266-talking-to-aws-iot-using-mqtt/</guid>
+      <description>Arduino library connecting to the AWS IoT service from an ESP8266 using websockets and MQTT.
+GitHub: debsahu/esp8266-arduino-aws-iot-ws ⚠️ ⚠️ ⚠️ This is no longer maintained and obsolete, there is better way to do this: follow instructions from here Still want to use this, follow instructions below ⚠️ ⚠️ ⚠️ Arduino Library derived from joekickass/esp8266-arduino-aws-iot-ws to work with Arduino
+Dependencies    Library Link Use     arduinoWebSockets https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

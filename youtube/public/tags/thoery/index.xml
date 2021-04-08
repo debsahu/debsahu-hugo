@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoery on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/thoery/</link>
+    <description>Recent content in thoery on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/thoery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building LED String Using Capacitive Dropper</title>
+      <link>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/building-led-string-using-capacitive-dropper/</guid>
+      <description>    Convert a string of filament lights (X-mas decoration lights) into a LED string of lights.
+Inspired from bigclive&amp;rsquo;s project   </description>
+    </item>
+    
+  </channel>
+</rss>

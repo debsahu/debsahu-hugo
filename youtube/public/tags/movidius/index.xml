@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movidius on Debashish Sahu</title>
+    <link>https://www.debashishsahu.com/tags/movidius/</link>
+    <description>Recent content in movidius on Debashish Sahu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate><atom:link href="https://www.debashishsahu.com/tags/movidius/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Recognition Using Movidius Neural Compute Stick on a RPi0W</title>
+      <link>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.debashishsahu.com/posts/image-recognition-using-movidius-neural-compute-stick-on-a-rpi0w/</guid>
+      <description>Let&amp;rsquo;s build a security camera using Raspberry Pi Zero W and Movidius Neural Compute Stick to recognize a &amp;ldquo;person&amp;rdquo; on the video stream
+GitHub: debsahu/PiCamMovidius Set up NCSDK API  Install required packages on Pi  sudo apt-get install -y libusb-1.0-0-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libatlas-base-dev git automake byacc lsb-release cmake libgflags-dev libgoogle-glog-dev liblmdb-dev swig3.0 graphviz libxslt-dev libxml2-dev gfortran python3-dev python-pip python3-pip python3-setuptools python3-markdown python3-pillow python3-yaml python3-pygraphviz python3-h5py python3-nose python3-lxml python3-matplotlib python3-numpy python3-protobuf python3-dateutil python3-skimage python3-scipy python3-six python3-networkx python3-tk libboost-python-dev Clone NCSDK  cd ~git clone https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
