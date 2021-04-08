@@ -1,10 +1,15 @@
 param (
-    [string]$msg = "rebuilding site $(date)"
+    [string]$msg = "rebuilding site $(date)",
+    [bool]$build = $false
 )
 # PowerShell
 
-# Build the project
-hugo --gc --minify
+switch ($build)
+{
+    # Build the project
+    $true { hugo --gc --minify; break }
+    default {echo "Skipping local build, using prebuilt files"; break }
+}
 
 # Goto public folder
 cd public

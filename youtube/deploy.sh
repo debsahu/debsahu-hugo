@@ -1,7 +1,19 @@
 #!/usr/bin/bash
 
-# Build the project
-hugo --gc --minify
+build=false;
+while getopts 'b' flag; do
+    case "$flag" in
+        b) build=true;;
+    esac
+done
+shift "$(( OPTIND - 1 ))"
+
+if "$build"; then
+    # Build the project
+    hugo --gc --minify
+else
+    echo "Skipping local build, using prebuilt files"
+fi
 
 # Goto public folder
 cd public
