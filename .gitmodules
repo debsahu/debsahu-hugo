@@ -1,0 +1,10 @@
+[submodule "youtube/public"]
+	path = youtube/public
+	url = https://github.com/debsahu/debsahu.github.io.git
+	branch = main
+
+[submodule "youtube/themes/PaperMod"]
+	path = youtube/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+	branch = main
+	# ignore = dirty
