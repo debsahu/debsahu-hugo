@@ -7,4 +7,3 @@
 	path = youtube/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 	branch = main
-	# ignore = dirty
