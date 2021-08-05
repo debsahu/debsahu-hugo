@@ -6,7 +6,7 @@ jobs:
   build:
     strategy:
       matrix:
-        version: [0.82.0]
+        version: [0.83.0]
         image: [ext-alpine]
     
     runs-on: ubuntu-latest
