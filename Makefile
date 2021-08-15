@@ -14,11 +14,7 @@ build:
 	klakegg/hugo:0.87.0 \
 	--gc --minify
 
-# 	cd youtube/public
-# 	git add .
-# 	git commit -m "Rebuilding site $(shell date)"
-# 	git push origin main
-# 	cd ../..
+	cd youtube/public && git add . && git commit -m "Rebuilding site $(shell date)" && git push origin main && cd ../..
 
 deploy:
 	git config push.recurseSubmodules on-demand
