@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 serve:
+	cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
+
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
@@ -8,8 +10,6 @@ serve:
 	server
 
 build:
-	cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
-
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
