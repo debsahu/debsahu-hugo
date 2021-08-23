@@ -43,7 +43,7 @@ categories: ['iot']
 
 ![schematic](/radon_sensing_schematic.png)
 
-## Radon Mitigation
+# Radon Mitigation
 
 Since April 2020, we have observed high levels of radon (>2 pCi/L) which has prompted us to mitigate radon in the air we breathe in the house. This is in spite of having a passive radon mitigation system installed in the house when built.
 
@@ -57,7 +57,7 @@ Since April 2020, we have observed high levels of radon (>2 pCi/L) which has pro
     - 3’ rubber couplers
     - Manometer
 
-## Results
+# Results
 
 Well below action limit of 2 pCi/L
 
