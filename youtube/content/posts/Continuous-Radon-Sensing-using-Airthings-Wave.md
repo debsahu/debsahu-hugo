@@ -20,7 +20,7 @@ categories: ['iot']
     * Indoors: Radon gas becomes trapped indoors after it enters buildings through cracks and other holes in the foundation
     * Can be controlled and managed with proven, cost-effective techniques
 
-![Radon levels](https://www.airthings.com/hs-fs/hubfs/Website/Images/Newsletter/Blog/Blog%20body%20images%20compressed%20-illustration/unsplash/Radon%20level%20chart.jpg?width=2300&name=Radon%20level%20chart.jpg)
+[![Radon levels](https://www.airthings.com/hs-fs/hubfs/Website/Images/Newsletter/Blog/Blog%20body%20images%20compressed%20-illustration/unsplash/Radon%20level%20chart.jpg?width=2300&name=Radon%20level%20chart.jpg)](https://www.airthings.com/resources/radon-levels)
 
 # Radon monitoring
 
