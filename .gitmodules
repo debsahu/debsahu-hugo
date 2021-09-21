@@ -3,6 +3,11 @@
 	url = https://github.com/debsahu/debsahu.github.io.git
 	branch = main
 
+[submodule "youtube/social"]
+	path = youtube/social
+	url = https://github.com/debsahu/debsahu-workers-social.git
+	branch = main
+
 [submodule "youtube/themes/PaperMod"]
 	path = youtube/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
