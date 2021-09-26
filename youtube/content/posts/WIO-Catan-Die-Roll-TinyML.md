@@ -5,7 +5,7 @@ tags: ['SAMD51','WIO', 'Seeed', 'machine learning', 'TinyML', 'Edge Impulse', 'e
 categories: ['machine learning']
 ---
 
-<!-- {{<youtube xxxxxx>}} -->
+{{<youtube emjb2YybIKw>}}
 
 #
 
