@@ -8,4 +8,4 @@ tags: ["rainbird","home assistant", "winterization", "wifi", "smart", "sprinkler
 
 #
 
-Here I add [WiFi LNK module](https://www.rainbird.com/products/lnk-wifi-module) to my [ESP-TM2 Rainbird Irrigation System](https://www.rainbird.com/products/esp-tm2-series-controllers) and add the integration to Home Assistant. Once completed, I winterize the irrigation system for the coming winter.
+Here I add [WiFi LNK module](https://www.rainbird.com/products/lnk-wifi-module) to my [ESP-TM2 Rainbird Irrigation System](https://www.rainbird.com/products/esp-tm2-series-controllers) and add the [Rainbird integration](https://www.home-assistant.io/integrations/rainbird/) to [Home Assistant](https://www.home-assistant.io/). Once completed, I winterize the irrigation system for the coming winter.
