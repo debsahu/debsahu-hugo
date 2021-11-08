@@ -7,14 +7,14 @@ serve:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:0.87.0 \
+	klakegg/hugo:0.88.0 \
 	server
 
 build:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:0.87.0 \
+	klakegg/hugo:0.88.0 \
 	--gc --minify
 
 	cd youtube/public && git add . && git commit -m "Rebuilding site $(shell date)" && git push origin main && cd ../..
@@ -29,5 +29,5 @@ shell:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:0.87.0 \
+	klakegg/hugo:0.88.0 \
 	shell
