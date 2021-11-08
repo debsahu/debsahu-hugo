@@ -6,8 +6,9 @@
 [submodule "youtube/themes/PaperMod"]
 	path = youtube/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-	branch = main
+	branch = master
 
 [submodule "youtube/linktree"]
 	path = youtube/linktree
 	url = https://github.com/debsahu/debsahu-workers-social.git
+	branch = main
