@@ -102,7 +102,7 @@ params:
         - name: "reddit"
           url: "https://www.reddit.com/user/debsahu/"
         - name: "email"
-          url: "mailto:debashish.sahu@gmail.com"
+          url: "mailto:contact@debashishsahu.com"
         - name: "googlescholar"
           url: "https://scholar.google.com/citations?user=x_QY8tIAAAAJ&hl=en"
 
