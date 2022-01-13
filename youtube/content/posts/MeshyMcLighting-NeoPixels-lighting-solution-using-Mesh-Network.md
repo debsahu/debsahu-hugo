@@ -1,7 +1,7 @@
 ---
 title: "MeshyMcLighting: NeoPixels Lighting Solution Using Mesh Network"
 date: 2018-05-16T00:00:00-05:00
-tags: ["esp8266", "rgb", "MQTT", "Home Assistant", "IoT","McLighting"]
+tags: ["esp8266", "rgb", "MQTT", "Home Assistant", "IoT","McLighting", 'debashish sahu']
 categories: ['iot']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Blinking LEDs Using Inductive Qi Charger | No Batteries"
 date: 2020-12-21T00:00:00-05:00
-tags: ["qi","wire", "magnetism", "inductive charging", "LED", "blink"]
+tags: ["qi","wire", "magnetism", "inductive charging", "LED", "blink",'debashish sahu']
 ---
 
 {{<youtube dWmcaW2XbWI>}}

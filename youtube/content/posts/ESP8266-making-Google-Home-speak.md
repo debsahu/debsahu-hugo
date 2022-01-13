@@ -1,7 +1,7 @@
 ---
 title: "ESP8266 Making Google Home Speak"
 date: 2018-07-06T00:00:00-05:00
-tags: ['ESP8266','mDNS', 'IoT', 'HTTP', 'Google Home','text to speech', 'google']
+tags: ['ESP8266','mDNS', 'IoT', 'HTTP', 'Google Home','text to speech', 'google','debashish sahu']
 categories: ['iot']
 ---
 

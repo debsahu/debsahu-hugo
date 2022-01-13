@@ -1,7 +1,7 @@
 ---
 title: "WIO Terminal: Catan Die Roll TinyML"
 date: 2021-09-22T00:00:00-05:00
-tags: ['SAMD51','WIO', 'Seeed', 'machine learning', 'TinyML', 'Edge Impulse', 'embeded AI']
+tags: ['SAMD51','WIO', 'Seeed', 'machine learning', 'TinyML', 'Edge Impulse', 'embeded AI', 'debashish sahu']
 categories: ['machine learning']
 ---
 

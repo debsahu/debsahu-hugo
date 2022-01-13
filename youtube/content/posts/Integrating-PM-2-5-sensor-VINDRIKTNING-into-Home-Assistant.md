@@ -1,7 +1,7 @@
 ---
 title: "Integrating PM 2.5 sensor (VINDRIKTNING) into Home Assistant"
 date: 2021-11-21T00:00:00-05:00
-tags: ["pm 2.5","home assistant", "ikea", "vindriktning", "hepa", "automation"]
+tags: ["pm 2.5","home assistant", "ikea", "vindriktning", "hepa", "automation", 'debashish sahu']
 ---
 
 {{<youtube Bjk7nK1iDIc>}}

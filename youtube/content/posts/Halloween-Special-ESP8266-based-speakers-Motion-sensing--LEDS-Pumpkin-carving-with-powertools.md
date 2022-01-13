@@ -1,7 +1,7 @@
 ---
 title: "Halloween Special: ESP8266 Based Speakers w/ Motion Sensing & LEDS | Pumpkin Carving With Powertools"
 date: 2020-10-18T00:00:00-05:00
-tags: ["ESP8266", "pumpkin carving", "halloween", "speakers", "mp3", "speakers", "scary", "motion sensor"]
+tags: ["ESP8266", "pumpkin carving", "halloween", "speakers", "mp3", "speakers", "scary", "motion sensor", 'debashish sahu']
 categories: ['iot']
 ---
 

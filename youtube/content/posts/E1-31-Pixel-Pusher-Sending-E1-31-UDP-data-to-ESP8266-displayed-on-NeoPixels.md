@@ -1,7 +1,7 @@
 ---
 title: "E1.31 Pixel Pusher: Sending E1.31 UDP Data to ESP8266 Displayed on NeoPixels"
 date: 2018-12-19T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "E1.31", "UDP", "IoT", "RGB", "LED", "NeoPixel"]
+tags: ["ESP8266", "ESP32", "E1.31", "UDP", "IoT", "RGB", "LED", "NeoPixel",'debashish sahu']
 categories: ['iot']
 ---
 

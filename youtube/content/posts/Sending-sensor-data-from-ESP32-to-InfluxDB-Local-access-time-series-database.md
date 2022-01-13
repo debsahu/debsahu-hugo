@@ -1,7 +1,7 @@
 ---
 title: "Sending sensor data from ESP32 to InfluxDB | Local access - time-series database"
 date: 2021-03-15T10:00:00-04:00
-tags: ["ESP32", "WiFi", "WPA2-Enterprise", "IoT", "lolin D32","influxdb","big data", "grafana"]
+tags: ["ESP32", "WiFi", "WPA2-Enterprise", "IoT", "lolin D32","influxdb","big data", "grafana", 'debashish sahu']
 categories: ['iot']
 ---
 

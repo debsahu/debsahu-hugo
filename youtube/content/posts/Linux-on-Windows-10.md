@@ -1,7 +1,7 @@
 ---
 title: "Linux on Windows 10"
 date: 2019-01-26T00:00:00-05:00
-tags: ["windows", "linux","wsl"]
+tags: ["windows", "linux","wsl", 'debashish sahu']
 categories: ['computer']
 ---
 

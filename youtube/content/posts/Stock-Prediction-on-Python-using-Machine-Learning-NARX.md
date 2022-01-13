@@ -1,7 +1,7 @@
 ---
 title: "Stock Prediction on Python Using Machine Learning (NARX)"
 date: 2018-04-20T00:00:00-05:00
-tags: ["python","matlab","stock","prediction","narx"]
+tags: ["python","matlab","stock","prediction","narx", 'debashish sahu']
 categories: ['machine learning']
 ---
 

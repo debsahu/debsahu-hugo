@@ -1,7 +1,7 @@
 ---
 title: "The Button: Amazon \"Dash\" Type Button to Communicate to Home-Assistant"
 date: 2018-06-01T00:00:00-05:00
-tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi']
+tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi', 'debashish sahu']
 categories: ['iot']
 ---
 

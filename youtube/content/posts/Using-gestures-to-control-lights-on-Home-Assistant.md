@@ -1,7 +1,7 @@
 ---
 title: "Using Gestures to Control Lights on Home-Assistant"
 date: 2018-07-21T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "Rest API", "Home Assistant", "IoT", "sensor"]
+tags: ["ESP8266", "ESP32", "Rest API", "Home Assistant", "IoT", "sensor", 'debashish sahu']
 categories: ['iot']
 ---
 

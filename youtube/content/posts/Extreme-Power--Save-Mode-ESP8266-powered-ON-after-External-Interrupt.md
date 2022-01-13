@@ -1,7 +1,7 @@
 ---
 title: "Extreme Power-Save Mode: ESP8266 Powered ON After External Interrupt"
 date: 2018-01-22T00:00:00-05:00
-tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi']
+tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi', 'debashish sahu']
 categories: ['iot']
 ---
 {{<youtube pPd362tRx5o>}}

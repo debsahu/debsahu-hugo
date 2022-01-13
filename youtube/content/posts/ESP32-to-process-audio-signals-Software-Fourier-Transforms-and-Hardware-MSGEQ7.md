@@ -1,7 +1,7 @@
 ---
 title: "ESP32 to Process Audio Signals: Software (Fourier Transforms) and Hardware (MSGEQ7)"
 date: 2019-03-04T00:00:00-05:00
-tags: ['ESP32', 'Home Assitant', 'IoT', 'LEDs', 'WiFi',"Fourier Transforms", "MSGEQ7"]
+tags: ['ESP32', 'Home Assitant', 'IoT', 'LEDs', 'WiFi',"Fourier Transforms", "MSGEQ7",'debashish sahu']
 categories: ['iot']
 ---
 

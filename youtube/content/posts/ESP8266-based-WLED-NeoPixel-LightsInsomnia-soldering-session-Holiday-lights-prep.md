@@ -1,7 +1,7 @@
 ---
 title: "ESP8266 based WLED NeoPixel Lights | Insomnia soldering session | Holiday lights prep"
 date: 2020-12-02T00:00:00-05:00
-tags: ["esp8266", "rgb", "MQTT", "Home Assistant", "IoT","WLED","NeoPixels"]
+tags: ["esp8266", "rgb", "MQTT", "Home Assistant", "IoT","WLED","NeoPixels",'debashish sahu']
 categories: ['iot']
 ---
 

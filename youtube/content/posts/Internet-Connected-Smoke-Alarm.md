@@ -1,7 +1,7 @@
 ---
 title: Internet Connected Smoke Alarm
 date: 2018-01-23T00:00:00-05:00
-tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi', 'Smoke Alarm', 'sensor']
+tags: ['ESP8266', 'power save', 'battery', 'IoT', 'MQTT', 'WiFi', 'Smoke Alarm', 'sensor', 'debashish sahu']
 categories: ['iot']
 ---
 

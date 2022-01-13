@@ -1,7 +1,7 @@
 ---
 title: "ESP32 Communicating With Xiaomi Flora Plant Sensor Using BLE"
 date: 2018-06-29T00:00:00-05:00
-tags: ["raspberry pi", "ESP32", "MQTT", "Home Assistant", "IoT"]
+tags: ["raspberry pi", "ESP32", "MQTT", "Home Assistant", "IoT",'debashish sahu']
 categories: ['iot']
 ---
 

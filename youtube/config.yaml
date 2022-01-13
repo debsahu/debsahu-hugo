@@ -54,6 +54,7 @@ params:
     env: production
     description: "Debashish Sahu - Personal Web Parking Location"
     author: Debashish Sahu
+    keywords: [Blog, Debashish Sahu, YouTube]
     ShowShareButtons: true
     ShowReadingTime: false
     ShowPostNavLinks: true

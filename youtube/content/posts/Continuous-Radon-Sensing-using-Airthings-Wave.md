@@ -1,7 +1,7 @@
 ---
 title: "Continuous Radon Sensing Using Airthings Wave"
 date: 2021-08-23T12:00:00-04:00
-tags: ['ESP32','MQTT', 'IoT', 'BLE', 'Bluetooth', 'radon', 'sensor']
+tags: ['ESP32','MQTT', 'IoT', 'BLE', 'Bluetooth', 'radon', 'sensor','debashish sahu']
 categories: ['iot']
 ---
 

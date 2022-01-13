@@ -1,7 +1,7 @@
 ---
 title: "HARestAPI: Control Home Assistant Directly Using ESP8266"
 date: 2018-04-14T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "Rest API", "Home Assistant", "IoT"]
+tags: ["ESP8266", "ESP32", "Rest API", "Home Assistant", "IoT",'debashish sahu']
 categories: ['iot']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Using ESP8266 to Call RESTful API From TheRide to Get Real-Time BUS Data"
 date: 2018-10-27T00:00:00-05:00
-tags: ["ESP8266", "Rest API", "Home Assistant", "IoT", "sensor"]
+tags: ["ESP8266", "Rest API", "Home Assistant", "IoT", "sensor", 'debashish sahu']
 categories: ['iot']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating a Home Assistant Web Scraper Sensor"
 date: 2018-12-01T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "libXML", "scraper", "IoT", "Home Assistant"]
+tags: ["ESP8266", "ESP32", "libXML", "scraper", "IoT", "Home Assistant",'debashish sahu']
 categories: ['iot']
 ---
 

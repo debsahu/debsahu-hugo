@@ -1,7 +1,7 @@
 ---
 title: "DIY Custom Holiday Gift | Wood Decor | 3D Printed Letters | Photo Hanger"
 date: 2020-12-25T00:00:00-05:00
-tags: ['diy','wood working','photo','3d printing','wood decor','holiday gift']
+tags: ['diy','wood working','photo','3d printing','wood decor','holiday gift','debashish sahu']
 categories: ['home decor','wood working']
 ---
 

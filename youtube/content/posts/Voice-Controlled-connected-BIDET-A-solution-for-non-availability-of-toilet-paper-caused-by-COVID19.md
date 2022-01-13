@@ -1,7 +1,7 @@
 ---
 title: "Voice Controlled (Connected) BIDET: A Solution for Non-Availability of Toilet-Paper Caused by COVID19"
 date: 2020-04-13T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "Infra Red", "transmitter", "IoT", "smart", "WiFi", "hacking", "2N2222",'ESPHome','Home Assistant']
+tags: ["ESP8266", "ESP32", "Infra Red", "transmitter", "IoT", "smart", "WiFi", "hacking", "2N2222",'ESPHome','Home Assistant', 'debashish sahu']
 categories: ['iot','hack']
 ---
 

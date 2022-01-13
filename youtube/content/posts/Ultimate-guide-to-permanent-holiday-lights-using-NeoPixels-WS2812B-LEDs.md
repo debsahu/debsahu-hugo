@@ -1,7 +1,7 @@
 ---
 title: "Ultimate guide to permanent holiday lights using NeoPixels/WS2812B LEDs"
 date: 2020-12-13T00:00:00-05:00
-tags: ["shorts","esp8266", "rgb", "MQTT", "Home Assistant", "IoT","WLED","NeoPixels"]
+tags: ["shorts","esp8266", "rgb", "MQTT", "Home Assistant", "IoT","WLED","NeoPixels", 'debashish sahu']
 categories: ['iot','home decor']
 ---
 

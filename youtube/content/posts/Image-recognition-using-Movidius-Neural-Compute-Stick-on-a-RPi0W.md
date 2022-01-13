@@ -1,7 +1,7 @@
 ---
 title: "Image Recognition Using Movidius Neural Compute Stick on a RPi0W"
 date: 2018-05-27T00:00:00-05:00
-tags: ["raspberry pi", "rtl-sdr", "MQTT", "Home Assistant", "IoT","machine learning", "compute stick", "movidius","opencv", "mobilessd", "YoLoV2", "image recognition", "camera"]
+tags: ["raspberry pi", "rtl-sdr", "MQTT", "Home Assistant", "IoT","machine learning", "compute stick", "movidius","opencv", "mobilessd", "YoLoV2", "image recognition", "camera", 'debashish sahu']
 categories: ['iot']
 ---
 

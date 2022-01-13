@@ -1,7 +1,7 @@
 ---
 title: "ESP8266/ESP32 Connecting to SSL/TLSv1.2 Secured Mosquitto MQTT Broker"
 date: 2018-11-17T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "MQTT", "SSL", "IoT", "TLS"]
+tags: ["ESP8266", "ESP32", "MQTT", "SSL", "IoT", "TLS",'debashish sahu']
 categories: ['iot']
 ---
 

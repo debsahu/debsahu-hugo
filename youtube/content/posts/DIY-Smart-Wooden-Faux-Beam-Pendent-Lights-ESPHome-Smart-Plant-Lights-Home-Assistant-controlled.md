@@ -1,7 +1,7 @@
 ---
 title: "DIY Smart Wooden Faux Beam Pendent Lights | ESPHome | Smart Plant Lights | Home Assistant controlled"
 date: 2020-10-24T00:00:00-05:00
-tags: ["ESP8266", "ESP32", "sonoff", "switch", "lights", "plant", "faux-beam", "wood working", "smart",'ESPHome','Home Assistant']
+tags: ["ESP8266", "ESP32", "sonoff", "switch", "lights", "plant", "faux-beam", "wood working", "smart",'ESPHome','Home Assistant','debashish sahu']
 categories: ['iot','home decor']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning to Filter Out Background Noise RTX Voice"
 date: 2020-04-26T00:00:00-05:00
-tags: ["RTX voice","noise","machine learning","NVIDIA"]
+tags: ["RTX voice","noise","machine learning","NVIDIA", 'debashish sahu']
 categories: ['machine learning']
 ---
 

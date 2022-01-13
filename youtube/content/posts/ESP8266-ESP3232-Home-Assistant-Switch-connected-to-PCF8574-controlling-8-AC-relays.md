@@ -1,7 +1,7 @@
 ---
 title: "ESP8266/ESP3232: Home Assistant Switch Connected to PCF8574 Controlling 8 AC Relays"
 date: 2019-02-24T00:00:00-05:00
-tags: ['ESP8266', 'ESP32', 'Home Assitant', 'IoT', 'MQTT', 'WiFi', 'relay', 'sensor', "switch"]
+tags: ['ESP8266', 'ESP32', 'Home Assitant', 'IoT', 'MQTT', 'WiFi', 'relay', 'sensor', "switch",'debashish sahu']
 categories: ['iot']
 ---
 

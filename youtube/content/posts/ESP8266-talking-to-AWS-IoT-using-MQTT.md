@@ -1,7 +1,7 @@
 ---
 title: "ESP8266 Talking to AWS IoT Using MQTT"
 date: 2018-07-13T00:00:00-05:00
-tags: ['ESP8266','MQTT', 'IoT', 'AWS', 'Amazon','smart devices']
+tags: ['ESP8266','MQTT', 'IoT', 'AWS', 'Amazon','smart devices','debashish sahu']
 categories: ['iot']
 ---
 

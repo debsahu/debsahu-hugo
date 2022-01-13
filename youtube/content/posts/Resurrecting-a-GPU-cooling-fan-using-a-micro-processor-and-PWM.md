@@ -1,7 +1,7 @@
 ---
 title: "Resurrecting a GPU Cooling Fan Using a Micro-Processor and PWM"
 date: 2018-06-16T00:00:00-05:00
-tags: ['ATTiny85', 'PWM', 'hack']
+tags: ['ATTiny85', 'PWM', 'hack', 'debashish sahu']
 categories: ['repair']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Using RTL-SDR to Read Values From Wireless Electric/Gas/Water Meters"
 date: 2018-05-05T00:00:00-05:00
-tags: ["raspberry pi", "rtl-sdr", "MQTT", "Home Assistant", "IoT"]
+tags: ["raspberry pi", "rtl-sdr", "MQTT", "Home Assistant", "IoT", 'debashish sahu']
 categories: ['iot']
 ---
 

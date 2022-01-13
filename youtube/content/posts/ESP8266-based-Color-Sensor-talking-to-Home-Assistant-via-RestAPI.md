@@ -1,7 +1,7 @@
 ---
 title: "ESP8266 Based Color Sensor Talking to Home Assistant via RestAPI"
 date: 2018-04-07T00:00:00-05:00
-tags: ["ESP8266", "Rest API", "Home Assistant", "IoT", "sensor"]
+tags: ["ESP8266", "Rest API", "Home Assistant", "IoT", "sensor",'debashish sahu']
 categories: ['iot']
 ---
 
