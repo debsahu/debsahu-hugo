@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
-HUGO_VERSION=0.91.2
+HUGO_VERSION=0.104.3
 
 serve:
-	cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
-	cd youtube/linktree && git fetch --all && git reset --hard origin/main && cd ../..
+	#cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
+	#cd youtube/linktree && git fetch --all && git reset --hard origin/main && cd ../..
+	git submodule update --init --recursive
 
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
