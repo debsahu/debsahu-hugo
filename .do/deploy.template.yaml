@@ -10,7 +10,7 @@ spec:
     envs:
     - key: HUGO_VERSION
       scope: BUILD_TIME
-      value: 0.91.2
+      value: 0.104.3
     routes:
     - path: /
     source_dir: youtube
