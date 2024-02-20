@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-HUGO_VERSION=0.104.3
+HUGO_VERSION=0.123.0
 
 serve:
 	#cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
@@ -10,14 +10,14 @@ serve:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:${HUGO_VERSION} \
+	floryn90/hugo:${HUGO_VERSION} \
 	server
 
 build:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:${HUGO_VERSION} \
+	floryn90/hugo:${HUGO_VERSION} \
 	--gc --minify
 
 	cd youtube/public && git add . && git commit -m "Rebuilding site $(shell date)" && git push origin main && cd ../..
@@ -32,5 +32,5 @@ shell:
 	docker run --rm -it \
 	-v ${PWD}/youtube:/src \
 	-p 1313:1313 \
-	klakegg/hugo:${HUGO_VERSION} \
+	floryn90/hugo:${HUGO_VERSION} \
 	shell
