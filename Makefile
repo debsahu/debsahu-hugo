@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-HUGO_VERSION=0.123.0
+HUGO_VERSION=0.123.4
 
 serve:
 	#cd youtube/themes/PaperMod && git fetch --all && git reset --hard origin/master && cd ../../..
