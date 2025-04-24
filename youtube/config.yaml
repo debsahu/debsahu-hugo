@@ -61,6 +61,9 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     comments: true
+    # Giscus comment system
+    giscusTheme: "catppuccin_mocha"
+    disableComments: false
     ShowToc: true
     defaultTheme: auto
     label:
