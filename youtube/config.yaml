@@ -11,6 +11,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+ignoreLogs: 'warning-goldmark-raw-html'
 
 googleAnalytics: G-XDGY3DXFG0
 
@@ -73,10 +74,14 @@ params:
     profileMode:
           enabled: true
           title: "<Title>"
-          subtitle: > 
-            #### 🧪🧲NMR/Biophysics Ph.D. 🥼Director-Biomolecular NMR Research Lab 👨‍🔬Scientist 
+          subtitle: >
+            #### 🧲NMR/Biophysics PhD 🥼Director-Biomolecular NMR Research Lab
 
-            #### 〽️Amatuer Trader 🍛Foodie 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer ▶️YouTuber
+            #### 👨‍🔬Scientist 🧬Science 🪄Nerd 🍛Foodie 〽️Amateur Trader 
+
+            #### 🫙Freshnox - Cofounder 📡IoT enthu patani 👨🏽‍💻Coder 👨🏽‍🔧Tinkerer/maker  
+
+            #### ⚡️EV🚗 🐶Dog Dad ▶️Ex-YouTuber 🏠Smart Home
           imageUrl: "deb3.jpg"
           imageTitle: "deb"
           imageWidth: 250
@@ -89,23 +94,36 @@ params:
               - name: YouTube
                 url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
 
+    # Define social links for Hugo v0.124.0+ compatibility
+    social:
+        github: https://www.github.com/debsahu
+        youtube: https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg
+        twitter: https://twitter.com/debsahu
+        instagram: https://www.instagram.com/debsahu
+        linkedin: https://www.linkedin.com/in/debashish-sahu-69234235/
+        email: mailto:contact@debashishsahu.com
+    
+    # Keep the existing socialIcons for PaperMod theme
     socialIcons:
         - name: "github"
           url: "https://www.github.com/debsahu"
         - name: "youtube"
           url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
+        - name: "bluesky"
+          url: "https://bsky.app/profile/debsahu.bsky.social"
         - name: "twitter"
           url: "https://twitter.com/debsahu"
-        - name: RsS
-          url: "index.xml"
+        - name: "instagram"
+          url: "https://www.instagram.com/debsahu"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/debashish-sahu-69234235/"
-        - name: "reddit"
-          url: "https://www.reddit.com/user/debsahu/"
-        - name: "email"
-          url: "mailto:contact@debashishsahu.com"
         - name: "googlescholar"
           url: "https://scholar.google.com/citations?user=x_QY8tIAAAAJ&hl=en"
+        - name: RsS
+          url: "index.xml"
+        - name: "email"
+          url: "mailto:contact@debashishsahu.com"
+        
 
     # analytics:
     #     google:
@@ -115,23 +133,25 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+    # Add social as a taxonomy for Hugo v0.124.0+ compatibility
+    social: social
  
 privacy:
-    twitter:
+    # Updated from twitter to x per Hugo v0.141.0 deprecation
+    x:
         disabled: false
         enableDNT: true
         simple: true
-
     instagram:
         disabled: false
         simple: true
-
     youtube:
         disabled: false
         privacyEnhanced: true
 
 services:
-    instagram:
+    # Updated from twitter to x per Hugo v0.141.0 deprecation
+    x:
         disableInlineCSS: true
-    twitter:
+    instagram:
         disableInlineCSS: true
