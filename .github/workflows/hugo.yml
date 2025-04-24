@@ -12,7 +12,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Set permissions
+      run: |
+        mkdir -p /tmp/hugo-cache
+        chmod -R 777 /tmp/hugo-cache
+        chmod -R 777 ./youtube
 
     - name: hugo
       uses: floryn90/actions-hugo@1.0.0
@@ -21,3 +29,4 @@ jobs:
         image: ${{ matrix.image }}
         source: youtube
         env: production
+        cache-dir: /tmp/hugo-cache
