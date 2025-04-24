@@ -98,7 +98,7 @@ params:
     social:
         github: https://www.github.com/debsahu
         youtube: https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg
-        twitter: https://twitter.com/debsahu
+        x: https://x.com/debsahu
         instagram: https://www.instagram.com/debsahu
         linkedin: https://www.linkedin.com/in/debashish-sahu-69234235/
         email: mailto:contact@debashishsahu.com
@@ -111,8 +111,8 @@ params:
           url: "https://www.youtube.com/channel/UC8AWNs6efg2MLhBTuCIJcsg"
         - name: "bluesky"
           url: "https://bsky.app/profile/debsahu.bsky.social"
-        - name: "twitter"
-          url: "https://twitter.com/debsahu"
+        - name: "x"
+          url: "https://x.com/debsahu"
         - name: "instagram"
           url: "https://www.instagram.com/debsahu"
         - name: "linkedin"
